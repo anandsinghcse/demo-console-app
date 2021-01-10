@@ -1,8 +1,8 @@
 # demo-console-app
-Demo Console App for Vending Machine. This app is writen is Typescript and runs on nodejs environment.
+Demo Console App for Vending Machine. This app is written is Typescript and runs on nodejs environment.
 
 Pre requisite:
-Please enure nodejs, npm and typescript are insalled on your system.
+Please ensure nodejs, npm and typescript are installed on your system.
 
 Download and Install:
 git clone https://github.com/anandsinghcse/demo-console-app.git
