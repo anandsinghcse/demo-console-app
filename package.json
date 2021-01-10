@@ -4,6 +4,7 @@
   "description": "Demo Console App for TypeScript",
   "main": "./dist/app",
   "dependencies": {
+    "typescript": "^4.1.3",
     "prompt-sync": "^4.2.0"
   },
   "devDependencies": {
