@@ -1,0 +1,14 @@
+{
+  "files": [
+    "./src/app.ts"
+  ],
+  "compilerOptions": {
+    "module": "commonjs",
+    "target": "es5",
+    "sourceMap": true,
+    "outDir": "./dist"
+  },
+  "exclude": [
+    "node_modules"
+  ]
+}
