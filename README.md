@@ -5,8 +5,8 @@ Pre requisite:
 Please ensure nodejs, npm and typescript are installed on your system.
 
 Download and Install:
-git clone https://github.com/anandsinghcse/demo-console-app.git
-run command "npm install" in root directory
+1. git clone https://github.com/anandsinghcse/demo-console-app.git
+2. run command "npm install" in root directory
 
 Start
 To start application run command "npm start" in root directory.
